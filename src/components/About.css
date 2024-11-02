@@ -1,0 +1,31 @@
+.about-section {
+    min-height: 100vh;
+    
+    display: flex;
+    justify-content: flex-start; 
+    align-items: flex-start;
+    
+    padding-top: 50px; 
+    background-color: #f0f0f0; 
+  }
+  
+  .about-content {
+    text-align: center; 
+    width: 80%; 
+    margin: 0 auto; /* Centra horizontalmente */
+    padding: 20px;
+  }
+  
+  /* Títulos */
+  .about-content h2 {
+    font-size: 2.5rem; /* Tamaño del título */
+    margin-bottom: 20px;
+  }
+  
+  /* Párrafo */
+  .about-content p {
+    font-size: 1.2rem; /* Tamaño del texto */
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
